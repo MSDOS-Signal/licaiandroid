@@ -84,7 +84,7 @@
 ### 安装步骤
 1. 克隆项目到本地
 ```bash
-git clone https://github.com/yourusername/finance-app.git
+git clone git@github.com:MSDOS-Signal/licaiandroid.git
 ```
 
 2. 在Android Studio中打开项目
@@ -146,20 +146,5 @@ git clone https://github.com/yourusername/finance-app.git
 
 本项目采用MIT许可证 - 查看[LICENSE](LICENSE)文件了解详情
 
-## 🙏 致谢
-
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) - 现代化UI框架
-- [Material Design](https://material.io/) - 设计系统
-- [Room Database](https://developer.android.com/training/data-storage/room) - 本地数据库
-- [Android Developers](https://developer.android.com/) - 官方开发文档
-
-## 📞 联系方式
-
-- **开发者**: XinHao
-- **邮箱**: your.email@example.com
-- **项目地址**: https://github.com/yourusername/finance-app
-- **问题反馈**: https://github.com/yourusername/finance-app/issues
-
----
 
 如果这个应用对您有帮助，请给个⭐️支持一下！
