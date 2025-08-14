@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 背景圆形 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+    
+    <!-- 内部圆形 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-36,0a36,36 0,1 1,72 0a36,36 0,1 1,-72 0" />
+    
+    <!-- 钱币图标 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,42m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    
+    <!-- 钱币符号 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38L54,46M50,42L58,42" />
+    
+    <!-- 装饰性圆点 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,58m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,64m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>

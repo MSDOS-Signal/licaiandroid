@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">炘灏理财</string>
+    
+    <!-- 主页面 -->
+    <string name="home_welcome">欢迎回来</string>
+    <string name="home_monthly_overview">月度概览</string>
+    <string name="home_income">收入</string>
+    <string name="home_expense">支出</string>
+    <string name="home_balance">结余</string>
+    <string name="home_quick_actions">快捷操作</string>
+    <string name="home_add_transaction">记账</string>
+    <string name="home_view_transactions">记录</string>
+    <string name="home_view_reports">报表</string>
+    <string name="home_view_budget">预算</string>
+    <string name="home_settings">设置</string>
+    <string name="home_recent_transactions">最近交易</string>
+    <string name="home_budget_progress">预算进度</string>
+    
+    <!-- 添加交易页面 -->
+    <string name="add_transaction_title">添加交易</string>
+    <string name="add_transaction_type">交易类型</string>
+    <string name="add_transaction_income">收入</string>
+    <string name="add_transaction_expense">支出</string>
+    <string name="add_transaction_amount">金额</string>
+    <string name="add_transaction_category">分类</string>
+    <string name="add_transaction_date">日期</string>
+    <string name="add_transaction_note">备注</string>
+    <string name="add_transaction_save">保存</string>
+    <string name="add_transaction_cancel">取消</string>
+    <string name="add_transaction_success">交易添加成功</string>
+    <string name="add_transaction_error">添加交易失败</string>
+    <string name="add_transaction_amount_hint">请输入金额</string>
+    <string name="add_transaction_note_hint">添加备注（可选）</string>
+    <string name="add_transaction_select_category">选择分类</string>
+    <string name="add_transaction_select_date">选择日期</string>
+    
+    <!-- 交易记录页面 -->
+    <string name="transactions_title">交易记录</string>
+    <string name="transactions_search_hint">搜索交易记录</string>
+    <string name="transactions_filter">筛选</string>
+    <string name="transactions_filter_all">全部</string>
+    <string name="transactions_filter_income">收入</string>
+    <string name="transactions_filter_expense">支出</string>
+    <string name="transactions_edit">编辑</string>
+    <string name="transactions_delete">删除</string>
+    <string name="transactions_delete_confirm">确定要删除这条交易记录吗？</string>
+    <string name="transactions_delete_confirm_title">删除确认</string>
+    <string name="transactions_edit_title">编辑交易</string>
+    <string name="transactions_no_transactions">暂无交易记录</string>
+    <string name="transactions_stats">统计信息</string>
+    <string name="transactions_total_income">总收入</string>
+    <string name="transactions_total_expense">总支出</string>
+    <string name="transactions_count">交易笔数</string>
+    
+    <!-- 报表页面 -->
+    <string name="reports_title">财务报表</string>
+    <string name="reports_overview">财务概览</string>
+    <string name="reports_trends">收支趋势</string>
+    <string name="reports_category_analysis">分类分析</string>
+    <string name="reports_monthly_comparison">月度对比</string>
+    <string name="reports_period_selection">时间段选择</string>
+    <string name="reports_this_month">本月</string>
+    <string name="reports_last_month">上月</string>
+    <string name="reports_last_3_months">近3个月</string>
+    <string name="reports_last_6_months">近6个月</string>
+    <string name="reports_this_year">今年</string>
+    <string name="reports_custom_period">自定义时间段</string>
+    <string name="reports_income_trend">收入趋势</string>
+    <string name="reports_expense_trend">支出趋势</string>
+    <string name="reports_budget_usage">预算使用情况</string>
+    <string name="reports_top_categories">主要分类</string>
+    
+    <!-- 预算管理页面 -->
+    <string name="budget_title">预算管理</string>
+    <string name="budget_add">添加预算</string>
+    <string name="budget_edit">编辑预算</string>
+    <string name="budget_delete">删除预算</string>
+    <string name="budget_total_overview">本月总预算</string>
+    <string name="budget_category_budgets">分类预算</string>
+    <string name="budget_suggestions">预算建议</string>
+    <string name="budget_total_budget">总预算</string>
+    <string name="budget_used">已使用</string>
+    <string name="budget_remaining">剩余</string>
+    <string name="budget_usage_progress">使用进度</string>
+    <string name="budget_period">预算周期</string>
+    <string name="budget_daily">每日</string>
+    <string name="budget_weekly">每周</string>
+    <string name="budget_monthly">每月</string>
+    <string name="budget_yearly">每年</string>
+    <string name="budget_category_hint">分类（留空表示总预算）</string>
+    <string name="budget_amount">预算金额</string>
+    <string name="budget_delete_confirm">确定要删除这个预算吗？此操作无法撤销。</string>
+    <string name="budget_delete_confirm_title">删除预算</string>
+    <string name="budget_over_budget">预算超支</string>
+    <string name="budget_near_limit">预算接近限制</string>
+    <string name="budget_control_spending">建议控制支出</string>
+    <string name="budget_sufficient">预算充足</string>
+    <string name="budget_good_control">支出控制良好</string>
+    
+    <!-- 设置页面 -->
+    <string name="settings_title">设置</string>
+    <string name="settings_profile">个人设置</string>
+    <string name="settings_app_config">应用配置</string>
+    <string name="settings_data_management">数据管理</string>
+    <string name="settings_about">关于应用</string>
+    <string name="settings_dark_mode">深色模式</string>
+    <string name="settings_notifications">通知提醒</string>
+    <string name="settings_auto_backup">自动备份</string>
+    <string name="settings_export_data">导出数据</string>
+    <string name="settings_import_data">导入数据</string>
+    <string name="settings_clear_data">清除数据</string>
+    <string name="settings_clear_data_confirm">确定要清除所有数据吗？此操作无法撤销。</string>
+    <string name="settings_clear_data_confirm_title">清除数据确认</string>
+    <string name="settings_export_success">数据导出成功</string>
+    <string name="settings_export_failed">数据导出失败</string>
+    <string name="settings_import_success">数据导入成功</string>
+    <string name="settings_import_failed">数据导入失败</string>
+    <string name="settings_clear_data_success">数据清除成功</string>
+    <string name="settings_clear_data_failed">数据清除失败</string>
+    <string name="settings_about_version">版本信息</string>
+    <string name="settings_about_developer">开发者信息</string>
+    <string name="settings_about_description">炘灏理财 - 专业的个人财务管理应用，帮助您更好地管理个人财务。</string>
+    
+    <!-- 图表组件 -->
+    <string name="charts_pie_chart">分类占比</string>
+    <string name="charts_bar_chart">分类统计</string>
+    <string name="charts_line_chart">趋势图</string>
+    <string name="charts_progress_ring">进度</string>
+    <string name="charts_no_data">暂无数据</string>
+    <string name="charts_no_data_message">没有数据可以展示</string>
+    <string name="charts_insufficient_data">数据不足</string>
+    <string name="charts_insufficient_data_message">需要至少2个数据点来绘制趋势图</string>
+    
+    <!-- 通知提醒 -->
+    <string name="notification_daily_reminder_title">记账提醒</string>
+    <string name="notification_daily_reminder_text">今天还没有记账哦，记得记录您的收支情况！</string>
+    <string name="notification_budget_over_title">预算超支提醒</string>
+    <string name="notification_budget_near_title">预算接近限制</string>
+    <string name="notification_transaction_success_title">交易记录成功</string>
+    <string name="notification_channel_daily_reminder">每日记账提醒</string>
+    <string name="notification_channel_budget_alert">预算提醒</string>
+    <string name="notification_channel_transaction">交易通知</string>
+    
+    <!-- 通用 -->
+    <string name="common_save">保存</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_confirm">确认</string>
+    <string name="common_delete">删除</string>
+    <string name="common_edit">编辑</string>
+    <string name="common_add">添加</string>
+    <string name="common_loading">加载中...</string>
+    <string name="common_error">出错了</string>
+    <string name="common_success">成功</string>
+    <string name="common_retry">重试</string>
+    <string name="common_back">返回</string>
+    <string name="common_next">下一步</string>
+    <string name="common_previous">上一步</string>
+    <string name="common_close">关闭</string>
+    <string name="common_ok">确定</string>
+    <string name="common_yes">是</string>
+    <string name="common_no">否</string>
+    
+    <!-- 数据导出 -->
+    <string name="export_csv">导出为CSV</string>
+    <string name="export_json">导出为JSON</string>
+    <string name="export_excel">导出为Excel</string>
+    <string name="export_success">导出成功</string>
+    <string name="export_failed">导出失败</string>
+    <string name="export_include_images">包含图片</string>
+    <string name="export_select_format">选择导出格式</string>
+    <string name="export_select_location">选择保存位置</string>
+    
+    <!-- 货币相关 -->
+    <string name="currency_cny">人民币</string>
+    <string name="currency_usd">美元</string>
+    <string name="currency_eur">欧元</string>
+    <string name="currency_jpy">日元</string>
+    <string name="currency_gbp">英镑</string>
+    <string name="currency_hkd">港币</string>
+    <string name="currency_krw">韩元</string>
+    <string name="currency_base">基准货币</string>
+    <string name="currency_exchange_rate">汇率</string>
+    
+    <!-- 分类相关 -->
+    <string name="category_food">餐饮</string>
+    <string name="category_transport">交通</string>
+    <string name="category_shopping">购物</string>
+    <string name="category_entertainment">娱乐</string>
+    <string name="category_medical">医疗</string>
+    <string name="category_education">教育</string>
+    <string name="category_housing">住房</string>
+    <string name="category_other">其他</string>
+    <string name="category_salary">工资</string>
+    <string name="category_bonus">奖金</string>
+    <string name="category_investment">投资</string>
+    <string name="category_part_time">兼职</string>
+    <string name="category_custom">自定义分类</string>
+    <string name="category_add">添加分类</string>
+    <string name="category_edit">编辑分类</string>
+    <string name="category_delete">删除分类</string>
+    <string name="category_icon">图标</string>
+    <string name="category_color">颜色</string>
+    <string name="category_sort_order">排序</string>
+    <string name="category_is_default">默认分类</string>
+    <string name="category_is_active">激活状态</string>
+    
+    <!-- 时间相关 -->
+    <string name="time_today">今天</string>
+    <string name="time_yesterday">昨天</string>
+    <string name="time_this_week">本周</string>
+    <string name="time_last_week">上周</string>
+    <string name="time_this_month">本月</string>
+    <string name="time_last_month">上月</string>
+    <string name="time_this_year">今年</string>
+    <string name="time_last_year">去年</string>
+    <string name="time_custom">自定义</string>
+    <string name="time_start_date">开始日期</string>
+    <string name="time_end_date">结束日期</string>
+    <string name="time_select_date">选择日期</string>
+    
+    <!-- 错误信息 -->
+    <string name="error_network">网络连接失败</string>
+    <string name="error_database">数据库操作失败</string>
+    <string name="error_invalid_input">输入数据无效</string>
+    <string name="error_permission_denied">权限被拒绝</string>
+    <string name="error_file_not_found">文件未找到</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="error_try_again">请重试</string>
+    
+    <!-- 成功信息 -->
+    <string name="success_saved">保存成功</string>
+    <string name="success_deleted">删除成功</string>
+    <string name="success_updated">更新成功</string>
+    <string name="success_imported">导入成功</string>
+    <string name="success_exported">导出成功</string>
+    <string name="success_backup_created">备份创建成功</string>
+    <string name="success_restored">恢复成功</string>
+</resources>
